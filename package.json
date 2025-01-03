@@ -1,5 +1,5 @@
 {
-    "name": "eslint-plugin-hexagonal",
-    "version": "1.0.0",
-    "main": "src/index.js"
+	"name": "eslint-plugin-hexagonal",
+	"version": "1.0.1",
+	"main": "src/index.js"
 }
